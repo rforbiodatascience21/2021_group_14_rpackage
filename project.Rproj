@@ -16,6 +16,10 @@ BuildType: Package
 PackageUseDevtools: Yes
 PackageInstallArgs: --no-multiarch --with-keep.source
 <<<<<<< HEAD
+<<<<<<< HEAD
 PackageRoxygenize: rd,collate,namespace
 =======
 >>>>>>> a2cd76d95c4d9271e64015434b705776be479cdb
+=======
+PackageRoxygenize: rd,collate,namespace
+>>>>>>> ce6ad3403236f9635f1fd420c9a463443a819281

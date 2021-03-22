@@ -10,3 +10,4 @@ mk_codons <- function(dna, s = 1){
 }
 
 
+

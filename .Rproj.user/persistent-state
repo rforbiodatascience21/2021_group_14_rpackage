@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-activeClientUrl="https://ae2657db175e4ed38da7a12ac3bdb77a.app.rstudio.cloud/"
+="======"
+activeClientUrl="https://3956172501bc4bc88362082a3356b2bb.app.rstudio.cloud/"
 build-last-errors="[]"
 build-last-errors-base-dir="/cloud/project/"
 build-last-outputs="[{\"type\":0,\"output\":\"==> R CMD INSTALL --no-multiarch --with-keep.source project\\n\\n\"},{\"type\":1,\"output\":\"* installing to library ‘/home/rstudio-user/R/x86_64-pc-linux-gnu-library/4.0’\\n\"},{\"type\":1,\"output\":\"* installing *source* package ‘lab08aSimpleRpackage’ ...\\n\"},{\"type\":1,\"output\":\"** using staged installation\\n\"},{\"type\":1,\"output\":\"** R\\n\"},{\"type\":1,\"output\":\"** byte-compile and prepare package for lazy loading\\n\"},{\"type\":1,\"output\":\"\"},{\"type\":1,\"output\":\"No man pages found in package  ‘lab08aSimpleRpackage’ \\n\"},{\"type\":1,\"output\":\"\"},{\"type\":1,\"output\":\"** help\\n\"},{\"type\":1,\"output\":\"*** installing help indices\\n\"},{\"type\":1,\"output\":\"** building package indices\\n\"},{\"type\":1,\"output\":\"\"},{\"type\":1,\"output\":\"** testing if installed package can be loaded from temporary location\\n\"},{\"type\":1,\"output\":\"\"},{\"type\":1,\"output\":\"** testing if installed package can be loaded from final location\\n\"},{\"type\":1,\"output\":\"\"},{\"type\":1,\"output\":\"** testing if installed package keeps a record of temporary installation path\\n\"},{\"type\":1,\"output\":\"* DONE (lab08aSimpleRpackage)\\n\"},{\"type\":1,\"output\":\"\"}]"
@@ -7,9 +7,5 @@ compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\"
 files.monitored-path=""
 find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
 imageDirtyState="0"
-portToken="06c8d63c27ac"
+portToken="c250e5f4457f"
 saveActionState="0"
-=======
-activeClientUrl="https://0af40dadc2714ed3b4de60b505dd5039.app.rstudio.cloud/"
-portToken="d345d6bece9d"
->>>>>>> b84e74896a670af08d50854f29cd72559238b187

@@ -45,3 +45,5 @@ function (dna, s = 1)
     return(codons)
   }
 }
+
+

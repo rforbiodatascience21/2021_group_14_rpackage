@@ -1,11 +1,10 @@
-Package: lab08aSimpleRpackage
+Package: 2021_group_14_rpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Cool DNA stuff
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Group 14
+Maintainer: The package maintainer <s180552@student.dtu.dk>
+Description: Cool DNA stuff
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

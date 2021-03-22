@@ -19,3 +19,7 @@ Translate codon to their corresponding amino acid
 dna_codons_to_aa("CGA")
 
 }
+
+
+
+

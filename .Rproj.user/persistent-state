@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 activeClientUrl="https://0af40dadc2714ed3b4de60b505dd5039.app.rstudio.cloud/"
-portToken="f5f3a31a81c0"
-=======
-activeClientUrl="https://25cf83b8c4af4656b9da164f5f249499.app.rstudio.cloud/"
-portToken="d8e6ff6cfe52"
->>>>>>> 7c3c667d36b90fca0e151a7d9cd7cb95f1014057
+portToken="d345d6bece9d"
